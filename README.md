@@ -1,4 +1,5 @@
 # Learning Git is hard
+NOW im being sneaky and changing this again
 
 an repo to practice clone, push, pull and handle merge conflicts.
 
