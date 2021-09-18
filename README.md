@@ -1,6 +1,5 @@
 # Learning Git is hard
 
-
 a repo to practice clone, push, pull and handle merge conflicts.
 
 A safe space to fuck up the repository, make all the mistakes with no consequences.
@@ -11,7 +10,7 @@ Word of advice. Pull first before you push.
 
 House rules:
 Im writing something here in local
-now im going to push this
+now im going to push thisz
 
 - Communicate
 - Leave nice comments on PRs
