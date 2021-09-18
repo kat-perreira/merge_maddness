@@ -16,7 +16,7 @@ House rules:
 
 ## What you can do to practice
 
-- Create a branch, write a poem with words that rhyme with git in File 1, submit a PR
+- Create a branch, write a poem with words that rhyme with git or anything in File 1, submit a PR
 
 - Pass notes to each other in file 2, merge directly into main. Its the wild west in here.
 
