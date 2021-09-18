@@ -15,3 +15,10 @@
 # This is a haiku
 # About the dreaded Github
 # I hate it so much
+
+#Melinda's poem abut Git
+
+#I hate git
+#I feel like an idiot
+#I don't want to commit
+#Let's just see what happens when I submit
