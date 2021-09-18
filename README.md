@@ -1,7 +1,5 @@
 # Learning Git is hard
 
-## Hey Melinda, im going to change this now and NOW im going to push this up and move it from local to staging to merge onto github
-
 an repo to practice clone, push, pull and handle merge conflicts.
 
 A safe space to fuck up the repository, make all the mistakes with no consequences.
