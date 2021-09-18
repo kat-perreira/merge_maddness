@@ -1,5 +1,7 @@
 # Learning Git is hard
 
+NOW im being sneaky and changing this again
+IM GONNA FORCE A CONFLICT
 an repo to practice clone, push, pull and handle merge conflicts.
 
 A safe space to fuck up the repository, make all the mistakes with no consequences.
