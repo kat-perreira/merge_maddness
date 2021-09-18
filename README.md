@@ -1,5 +1,4 @@
 # Learning Git is hard
-NOW im being sneaky and changing this again
 
 an repo to practice clone, push, pull and handle merge conflicts.
 
@@ -10,6 +9,8 @@ Share this with anyone who wants a repo to practice with.
 Word of advice. Pull first before you push.
 
 House rules:
+Im writing something here in local
+now im going to push this
 
 - Communicate
 - Leave nice comments on PRs
