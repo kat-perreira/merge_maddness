@@ -28,3 +28,9 @@
 # Dear Genies diary,
 # If by kill you mean bestowed upon you an experience of euphoria where you got to enjoy the absolute joy of eating
 # glorious hot sauce then....you're welcome :)
+
+# Dear Genie's Diary,
+
+# Oh my! What an experience. Hot sauce is the beeeeest. 
+# I bet it was yummy!
+# What sauce was it?
