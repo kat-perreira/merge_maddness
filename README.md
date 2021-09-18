@@ -1,5 +1,6 @@
 # Learning Git is hard
 
+Hi this is Melinda
 
 a repo to practice clone, push, pull and handle merge conflicts.
 
