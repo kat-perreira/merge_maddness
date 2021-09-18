@@ -1,5 +1,10 @@
 # Learning Git is hard
 
+<<<<<<< HEAD
+=======
+Hi this is Melinda
+
+>>>>>>> 77ae6a9ab16deee67486dba854924e90453fdda9
 a repo to practice clone, push, pull and handle merge conflicts.
 
 A safe space to fuck up the repository, make all the mistakes with no consequences.
