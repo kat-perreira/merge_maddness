@@ -19,3 +19,8 @@
 # But I saw this cute show called Alice in Paris. 
 # And now I want to go to Paris and eat. 
 # What did you do?
+
+#Dear Genie's Diary, 
+# Kat and I ate breakfast this morning
+#Then came to her house where I have been trying to understand this Git and Github stuff
+#Then she tried to kill me with her hot sauce
