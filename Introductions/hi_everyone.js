@@ -3,7 +3,7 @@
 // I am used to the hash tags
 //
 
-const melinda = "Add something about yourself";
+const melinda = "I went to the adult plant store with Kat";
 const genie = "Add something about yourself";
 const lindsey = "Add something about yourself";
 const kat =
