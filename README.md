@@ -2,6 +2,8 @@
 
 a repo to practice clone, push, pull and handle merge conflicts.
 
+and pass messages to each other over github
+
 A safe space to fuck up the repository, make all the mistakes with no consequences.
 
 Share this with anyone who wants a repo to practice with.
