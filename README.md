@@ -15,8 +15,10 @@ Im writing something here in local
 now im going to push thisz
 
 - Communicate
-- Leave nice comments on PRs
+- Leave nice comments
+- Help each other
 - Be kind
+- Also this is a public repo so er be mindful of that 
 
 ## What you can do to practice
 
