@@ -25,3 +25,7 @@ now im going to push thisz
 - Pass notes to each other in file 2, merge directly into main. Its the wild west in here.
 
 - Write whatever you want in file 3
+
+- practice weird stuff like cherry picking and rebasing and stuff
+
+- write whatever you want
