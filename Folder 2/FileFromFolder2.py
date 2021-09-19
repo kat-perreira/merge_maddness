@@ -34,3 +34,7 @@
 # Oh my! What an experience. Hot sauce is the beeeeest. 
 # I bet it was yummy!
 # What sauce was it?
+
+#Dear Genie's Diary, 
+#Hahaha that was death in the mouth
+#Yes hot sauce is soooo awesome but when you tummy is making noise after, it makes me wonder 
