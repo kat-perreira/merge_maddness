@@ -1,9 +1,8 @@
 // Hi everyone now im adding in a javascript file in a branch
 
 // I am used to the hash tags
-//
 
-const melinda = "I went to the adult plant store with Kat";
+const melinda = "I went to the adult plant store with Kat"; // HAH!!!!
 const genie = "Add something about yourself";
 const lindsey = "Add something about yourself";
 const kat =
