@@ -2,6 +2,19 @@
 
 a repo to practice clone, push, pull and handle merge conflicts.
 
+HEY ALL I NEED TO MAKE A PULL REQUEST TO DO SCREEN SHOTS FOR SOME WORK THING, ILL DELETE THIS WHEN IM DONE 
+
+BREAKING CHANGE
+
+COOL THING
+
+THING DONE USING OLD SYNTAX NOT OLD PATTERN
+
+THING IVE NEVER SEEN BEFORE
+
+SOMETHING THAT REQUIRES REVIEW
+
+
 and pass messages to each other over github
 
 A safe space to fuck up the repository, make all the mistakes with no consequences.
